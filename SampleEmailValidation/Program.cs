@@ -11,6 +11,7 @@ namespace SampleEmailValidation
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Sample Regex Email Validation");
+            RegexEmailValidation.Pattern();
             Console.ReadLine();
         }
     }
